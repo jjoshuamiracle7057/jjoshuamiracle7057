@@ -1,6 +1,5 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=750&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=Joshua+Miracle;Embedded+Systems+%26+VLSI;IoT+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=750&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=J;O;S;H;U;A;+;M;I;R;A;C;L;E;Embedded+%26+IoT;VLSI+%26+FPGA" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -10,24 +9,11 @@
 
 ---
 
-<!--
-**jjoshuamiracle7057/jjoshuamiracle7057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
-
 ## ⚡ About Me
-* 🔭 I’m currently working on **FPGA-based high-speed processors and autonomous robotics firmware**.
-* 🌱 I’m currently learning **Advanced VLSI design, Verilog architectures, and IoT sensor protocols**.
+* 🔭 I’m currently working on **EMBEDDED AND IOT AND FPGA-based high-speed processors and autonomous robotics firmware**.
+* 🌱 I’m currently learning **Advanced EMBEDDED AND IOT AND VLSI design, Verilog architectures, and IoT sensor protocols**.
 * 👯 I’m looking to collaborate on **Embedded systems and hardware-software co-simulation projects**.
-* 🤔 I’m looking for help with **Optimizing RTL code and digital logic synthesis**.
-* 💬 Ask me about **MicroPython, C++, Proteus simulation, and embedded firmware design**.
+* 💬 Ask me about **C++, Proteus simulation, and embedded firmware design**.
 
 ---
 
@@ -43,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/IoT_Protocols-FF6F00?style=for-the-badge&logo=arduino&logoColor=white" alt="IoT">
 </p>
 
-### 💻 Tools, Hardware & Simulation Platforms
+### 💻 Tools & Simulation Platforms
 <p>
   <img src="https://img.shields.io/badge/Xilinx_Vivado-000000?style=for-the-badge&logo=amd&logoColor=white" alt="Vivado">
   <img src="https://img.shields.io/badge/Proteus_Simulation-FF5722?style=for-the-badge&logo=qt&logoColor=white" alt="Proteus">
@@ -58,6 +44,15 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/jjoshuamiracle7057?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats Card" />
+</p>
+
+<!-- LeetCode Custom Metrics Display -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Solved-150-blue?style=for-the-badge&logo=leetcode" alt="Total Solved: 150">
+  <img src="https://img.shields.io/badge/Easy-32-brightgreen?style=for-the-badge" alt="Easy: 32">
+  <img src="https://img.shields.io/badge/Medium-88-orange?style=for-the-badge" alt="Medium: 88">
+  <img src="https://img.shields.io/badge/Hard-30-red?style=for-the-badge" alt="Hard: 30">
+  <img src="https://img.shields.io/badge/Skill_Rank-1600%2B-purple?style=for-the-badge" alt="Skill Rank: 1600+">
 </p>
 
 <p align="center">
