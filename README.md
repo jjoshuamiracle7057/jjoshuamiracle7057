@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=750&size=38&pause=500&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=J;O;S;H;U;A;M;I;R;A;C;L;E;J;Joshua+Miracle+J" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=750&size=34&pause=500&color=EF4444&center=true&vCenter=true&width=600&height=70&lines=J;O;S;H;U;A;M;I;R;A;C;L;E;J;JOSHUA+MIRACLE+J" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -42,7 +42,6 @@
 
 ## 📊 LeetCode & Problem Solving
 
-<!-- Custom LeetCode Stats Bar matching your exact specifications -->
 <p align="center">
   <img src="https://img.shields.io/badge/TOTAL_SOLVED-150-blue?style=for-the-badge&logo=leetcode" alt="Total Solved: 150">
   <img src="https://img.shields.io/badge/EASY-32-brightgreen?style=for-the-badge" alt="Easy: 32">
