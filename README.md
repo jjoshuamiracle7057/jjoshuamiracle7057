@@ -353,7 +353,26 @@
 </p>
 
 ---
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=750&size=38&pause=1000&color=EF4444&center=true&vCenter=true&width=850&height=80&lines=Joshua+Miracle;Embedded+Systems+%26+VLSI;IoT+%26+FPGA+Developer;Robotics+%26+AI+Enthusiast" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <b>Embedded Systems • VLSI • FPGA • IoT • Robotics • AI</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jjoshuamiracle7057">
+    <img src="https://img.shields.io/badge/GitHub-jjoshuamiracle7057-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 # 🚀 Development Philosophy
 
 <p align="center">
