@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <span style="color:red; font-size:18px;">
+    <strong>Psalm 118:6</strong>: "The Lord is with me; I will not be afraid. What can mere mortals do to me?"
+  </span>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header">
 </p>
 
