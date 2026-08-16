@@ -495,30 +495,7 @@ An intelligent disaster-response robotic platform combining:
 </p>
 
 ---
-Response
-📈 Development Focus
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Embedded%20Systems-████████████████-EF4444?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/IoT-██████████████░░-F59E0B?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/VLSI-████████████░░░░-8B5CF6?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/FPGA-███████████░░░░░-3B82F6?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Robotics-██████████████░░-10B981?style=for-the-badge">
-
-</p>
-
-🐙 GitHub Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jjoshuamiracle7057&theme=tokyonight&hide_border=true&background=111827" alt="GitHub Contribution Streak">
-
-</p>
 
 👨‍💻 GitHub Profile
 
