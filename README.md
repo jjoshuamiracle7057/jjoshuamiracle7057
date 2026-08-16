@@ -101,17 +101,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjoshuamiracle7057&bg_color=111827&color=ffffff&line=EF4444&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
-🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jjoshuamiracle7057&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies">
-</p>
-
-📊 GitHub Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjoshuamiracle7057&theme=github-compact&hide_border=true" alt="Contribution Graph">
-</p>
 
 💡 GitHub Metrics
 
@@ -143,6 +132,13 @@
 
 <img src="https://img.shields.io/badge/SKILL%20RANK-1600%2B-purple?style=for-the-badge">
 
+</p>
+
+
+📊 GitHub Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jjoshuamiracle7057&theme=github-compact&hide_border=true" alt="Contribution Graph">
 </p>
 
 🤖 Featured Project
