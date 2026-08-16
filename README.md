@@ -13,7 +13,7 @@
 
 <p align="center">
   <span style="color:red; font-size:18px;">
-    <strong>Psalm 118:6</strong>: "The Lord is with me; I will not be afraid. What can mere mortals do to me?"
+    <strong>1 Thessalonians 5:18</strong>:  "Give thanks in all circumstances; for this is God’s will for you in Christ Jesus"
   </span>
 </p>
 
