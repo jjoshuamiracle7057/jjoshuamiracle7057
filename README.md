@@ -1,7 +1,7 @@
 # 🤖 Featured Project
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=700&color=EF4444&center=true&vCenter=true&width=800&height=60&lines=AI-Powered+Search+%26+Rescue+Robot;Autonomous+Disaster+Response+Platform;ESP32+%2B+YOLO+%2B+LoRa+%2B+IoT;Detect+%E2%80%A2+Navigate+%E2%80%A2+Rescue" alt="Project Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=700&color=EF4444&center=true&vCenter=true&width=800&height=60&lines=Joshua+Miracle+J+%26+Embedded+Systems+&+IoT+and+VLSI;ESP32+%2B+YOLO+%2B+LoRa+%2B+IoT;Detect+%E2%80%A2+Navigate+%E2%80%A2+Rescue" alt="Project Animation">
 </p>
 
 <p align="center">
