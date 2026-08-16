@@ -1,8 +1,7 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=750&size=38&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&height=70&lines=Joshua+Miracle;Embedded+Systems+%26+VLSI;IoT+%26+FPGA+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=750&size=38&pause=1000&color=EF4444&center=true&vCenter=true&width=600&height=70&lines=Joshua+Miracle;Embedded+Systems+%26+VLSI;IoT+%26+FPGA+Developer" alt="Typing SVG" />
 </h1>
-
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
